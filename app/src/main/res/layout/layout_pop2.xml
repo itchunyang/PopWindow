@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#cccccc">
+
+    <TextView
+        android:padding="16dp"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#ff0000"
+        android:text="菜单选项1"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:padding="16dp"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#ff0000"
+        android:text="菜单选项2"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:padding="16dp"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#ff0000"
+        android:text="菜单选项2"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:padding="16dp"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#ff0000"
+        android:text="菜单选项2"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
